@@ -1,0 +1,286 @@
+[
+ {
+   "latitude": -3.9858884,
+   "longitude": -79.1983996,
+   "altitude": 2100,
+   "Name": "Centro de Convenciones UTPL\n",
+   "description": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9855874,
+   "longitude": -79.1990152,
+   "altitude": 2100,
+
+   "Name": "Museo de la Cultura Lojana\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9854028,
+   "longitude": -79.1984506,
+   "altitude": 2100,
+
+   "Name": "Buses UTPL\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9852837,
+   "longitude": -79.1989723,
+   "altitude": 2100,
+
+   "Name": "Polideportivo UTPL\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9851419,
+   "longitude": -79.1990206,
+   "altitude": 2100,
+
+   "Name": "Edificio 8 UTPL\n",
+   "description": "Se encuentran en este edificio una cafeteria, aulas y espacio para grupos culturales",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9846228,
+   "longitude": -79.1989562,
+   "altitude": 2100,
+
+   "Name": "Area Deportiva UTPL",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9860597,
+   "longitude": -79.1988918,
+   "altitude": 2100,
+
+   "Name": "Edificio 1",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9862711,
+   "longitude": -79.1989213,
+   "altitude": 2100,
+
+   "Name": "Biblioteca UTPL\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9865038,
+   "longitude": -79.1993505,
+   "altitude": 2100,
+
+   "Name": "Edificio 7",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9864717,
+   "longitude": -79.1990393,
+   "altitude": 2100,
+
+   "Name": "Edificio 2 ",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9867366,
+   "longitude": -79.198975,
+   "altitude": 2100,
+
+   "Name": "Edificio 3 ",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9872049,
+   "longitude": -79.1990125,
+   "altitude": 2100,
+
+   "Name": "Edificio 4 ",
+   "description": "Planta Baja: 415-416-417; Planta Alta 1: Planta Alta2",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9869721,
+   "longitude": -79.1993532,
+   "altitude": 2100,
+
+   "Name": "Cruz UTPL\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9870417,
+   "longitude": -79.1984385,
+   "altitude": 2100,
+
+   "Name": "Rectorado",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.98656,
+   "longitude": -79.1982789,
+   "altitude": 2100,
+
+   "Name": "Cafeteria UTPL\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9861988,
+   "longitude": -79.1984023,
+   "altitude": 2100,
+
+   "Name": "Modalidad Abierta y A Distancia\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9874551,
+   "longitude": -79.19892,
+   "altitude": 2100,
+
+   "Name": "Edificio 5 ",
+   "description": "Sala de Computo",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9876183,
+   "longitude": -79.1989213,
+   "altitude": 2100,
+
+   "Name": "Edificio 6 ",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9880397,
+   "longitude": -79.1983674,
+   "altitude": 2100,
+
+   "Name": "Balcon de Servicios Estudiantiles\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9883688,
+   "longitude": -79.1984197,
+   "altitude": 2100,
+
+   "Name": "UGTI",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9860597,
+   "longitude": -79.1977358,
+   "altitude": 2100,
+
+   "Name": "Edificio 9 ",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9862711,
+   "longitude": -79.1977385,
+   "altitude": 2100,
+
+   "Name": "Laboratorios de Fisica, Quimica, Otros\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9872932,
+   "longitude": -79.1973603,
+   "altitude": 2100,
+
+   "Name": "Industrias",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9715919,
+   "longitude": -79.2012173,
+   "altitude": 2100,
+
+   "Name": "Teatro Nacional Benjamin Carrion Mora\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.97103,
+   "longitude": -79.1964778,
+   "altitude": 2100,
+
+   "Name": "Vivienda\n",
+   "description": "Vivienda",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ },
+ {
+   "latitude": -3.9709711,
+   "longitude": -79.196282,
+   "altitude": 2100,
+
+   "Name": "Terreno\n",
+   "description": "",
+   "timestamp": "",
+   "begin": "08H00",
+   "end": "21H00"
+ }
+]
